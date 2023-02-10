@@ -28,6 +28,6 @@ Skills:  HTML  / CSS / JS / Python / SCSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goodwebman)  
 
-![Profile views](https://gpvc.arturio.dev/goodwebman)  
+
 
 ![Image alt](https://github.com/goodwebman/GoodwebMan/blob/main/tyler.png)
