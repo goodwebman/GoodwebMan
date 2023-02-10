@@ -1,4 +1,4 @@
-![Image alt](https://github.com/goodwebman/GoodwebMan/blob/main/tyler.png)
+
 ### Hi there 👋, my name is GoodWebMan
 I am an interested Internet user who is very interested in programming.
 I try every day to learn new unusual and useful features
@@ -29,3 +29,5 @@ Skills:  HTML  / CSS / JS / Python / SCSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=goodwebman)  
 
 ![Profile views](https://gpvc.arturio.dev/goodwebman)  
+
+![Image alt](https://github.com/goodwebman/GoodwebMan/blob/main/tyler.png)
