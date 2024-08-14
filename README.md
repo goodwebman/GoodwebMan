@@ -21,12 +21,4 @@ Skills: GIT / HTML  / CSS / SCSS / JS / TS / Python /  React / Tailwind /
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=goodwebman&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/goodwebman)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=goodwebman)  
-
-
-
-![Image alt](https://github.com/goodwebman/GoodwebMan/blob/main/tyler.png)
