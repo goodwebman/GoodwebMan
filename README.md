@@ -20,7 +20,6 @@ Skills:  HTML  / CSS / JS / Python / SCSS /  React
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodwebman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goodwebman&show_icons=true)  
 
