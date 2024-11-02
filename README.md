@@ -10,7 +10,7 @@ Programming is, first of all, creativity!
 
 
 
-# Skills:  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,scss,prisma,html,css,python,git)](https://skillicons.dev)
+# Skills:  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,scss,prisma,html,css,python,git)]
 
 
 
